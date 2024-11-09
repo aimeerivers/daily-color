@@ -4,6 +4,8 @@ Provides a unique hex code each day
 
 ## Install
 
+Install from [npmjs.com/package/daily-color](https://www.npmjs.com/package/daily-color):
+
 ```bash
 npm install daily-color
 ```
@@ -33,6 +35,10 @@ Using the CLI:
 ```bash
 dailycolor
 ```
+
+Just want to see today's color?
+
+There is a demo on [www.aimeerivers.com/daily-color](https://www.aimeerivers.com/daily-color/)
 
 ## Development
 
