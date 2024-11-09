@@ -1,0 +1,26 @@
+{
+  "name": "daily-color",
+  "version": "1.0.0",
+  "description": "Provides a unique hex code each day",
+  "keywords": [
+    "color",
+    "daily",
+    "date",
+    "hash",
+    "hex color"
+  ],
+  "homepage": "https://github.com/aimeerivers/daily-color#readme",
+  "bugs": {
+    "url": "https://github.com/aimeerivers/daily-color/issues"
+  },
+  "license": "ISC",
+  "author": "aimee rivers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimeerivers/daily-color.git"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  }
+}
