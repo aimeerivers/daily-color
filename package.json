@@ -15,6 +15,10 @@
   },
   "license": "ISC",
   "author": "aimee rivers",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
   "main": "index.js",
   "bin": {
     "dailycolor": "./bin/dailycolor.js"
