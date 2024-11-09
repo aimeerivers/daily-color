@@ -13,7 +13,7 @@ function getSimpleHash(date) {
   const month = date.getMonth() + 1; // getMonth() is zero-based
   const year = date.getFullYear();
 
-  const dateString = `${year}-${month}-${day}`;
+  const dateString = `${day}${day * year * month}${year}${month}${day}${year}${month}${day}`;
   let hash = 0;
 
   // Simple hash function: Iterate over each character in the date string
