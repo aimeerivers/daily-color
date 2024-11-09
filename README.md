@@ -18,6 +18,12 @@ const getDailyColor = require("daily-color");
 console.log("Today's color is: ", getDailyColor());
 ```
 
+Using the CLI:
+
+```bash
+dailycolor
+```
+
 ## Development
 
 Install dependencies:
