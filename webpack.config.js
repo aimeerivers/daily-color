@@ -9,4 +9,9 @@ module.exports = {
     libraryTarget: "umd",
   },
   mode: "production",
+  resolve: {
+    fallback: {
+      crypto: require.resolve("crypto-browserify"),
+    },
+  },
 };
