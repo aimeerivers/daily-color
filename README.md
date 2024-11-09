@@ -13,7 +13,7 @@ npm install daily-color
 In a JavaScript/TypeScript project, using NPM:
 
 ```javascript
-const getDailyColor = require("daily-color");
+import { getDailyColor } from "daily-color";
 
 console.log("Today's color is:", getDailyColor());
 ```
@@ -21,8 +21,9 @@ console.log("Today's color is:", getDailyColor());
 Directly loading the bundled JavaScript, for static projects not using NPM:
 
 ```html
-<script src="https://www.aimeerivers.com/daily-color/dist/daily-color.js"></script>
-<script>
+<script type="module">
+  import { getDailyColor } from "https://www.aimeerivers.com/daily-color/dist/daily-color.js";
+
   console.log("Today's color is:", getDailyColor());
 </script>
 ```
