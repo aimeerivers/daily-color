@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/aimeerivers/daily-color/compare/v1.0.1...v1.1.0) (2024-11-09)
+
+
+### Features
+
+* Provide a webpack bundle, for projects that don't use NPM ([#6](https://github.com/aimeerivers/daily-color/issues/6)) ([6d53597](https://github.com/aimeerivers/daily-color/commit/6d535973e9f8f601bf4e908911665eb9fda5ee67))
+
 ## [1.0.1](https://github.com/aimeerivers/daily-color/compare/v1.0.0...v1.0.1) (2024-11-09)
 
 
