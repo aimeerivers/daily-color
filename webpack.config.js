@@ -1,12 +1,20 @@
-const path = require("path");
+import path from "path";
+import { fileURLToPath } from "url";
 
-module.exports = {
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+export default {
   entry: "./index.js",
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "daily-color.js",
-    library: "getDailyColor",
-    libraryTarget: "umd",
+    library: {
+      type: "module",
+    },
+  },
+  experiments: {
+    outputModule: true,
   },
   mode: "production",
 };

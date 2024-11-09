@@ -23,6 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/aimeerivers/daily-color.git"
   },
+  "type": "module",
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",

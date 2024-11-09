@@ -1,4 +1,4 @@
-function getDailyColor() {
+export function getDailyColor() {
   const date = new Date();
   const hash = getSimpleHash(date);
 
@@ -25,5 +25,3 @@ function getSimpleHash(date) {
 
   return Math.abs(hash);
 }
-
-module.exports = getDailyColor;
