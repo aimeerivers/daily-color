@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/aimeerivers/daily-color/compare/v2.0.1...v2.1.0) (2024-11-09)
+
+
+### Features
+
+* Enable getting color for a specific date ([#20](https://github.com/aimeerivers/daily-color/issues/20)) ([3cbac73](https://github.com/aimeerivers/daily-color/commit/3cbac73229a577fe5497740c3f20037bb713bcf7))
+
 ## [2.0.1](https://github.com/aimeerivers/daily-color/compare/v2.0.0...v2.0.1) (2024-11-09)
 
 
