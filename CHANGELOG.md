@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/aimeerivers/daily-color/compare/v1.2.0...v1.3.0) (2024-11-09)
+
+
+### Features
+
+* Improve the demo display ([#10](https://github.com/aimeerivers/daily-color/issues/10)) ([ff95cd2](https://github.com/aimeerivers/daily-color/commit/ff95cd2b0afeca1d81f574b687e29d9015eb7c54))
+
 ## [1.2.0](https://github.com/aimeerivers/daily-color/compare/v1.1.0...v1.2.0) (2024-11-09)
 
 
