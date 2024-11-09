@@ -33,8 +33,10 @@
     "webpack": "npx webpack"
   },
   "devDependencies": {
+    "buffer": "6.0.3",
     "crypto-browserify": "3.12.1",
     "eslint-config-plus-prettier": "1.7.1",
+    "vm-browserify": "1.1.2",
     "webpack": "5.96.1",
     "webpack-cli": "5.1.4"
   },
