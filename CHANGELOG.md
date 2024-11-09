@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/aimeerivers/daily-color/compare/v2.0.0...v2.0.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* Add TypeScript declaration to make the module compatible with TyepScript ([#17](https://github.com/aimeerivers/daily-color/issues/17)) ([7df4681](https://github.com/aimeerivers/daily-color/commit/7df4681f444d781959905420748a2ae60385dc92))
+
 ## [2.0.0](https://github.com/aimeerivers/daily-color/compare/v1.3.1...v2.0.0) (2024-11-09)
 
 
