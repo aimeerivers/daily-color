@@ -30,8 +30,9 @@
 
   <body>
     <div id="color"></div>
-    <script src="https://www.aimeerivers.com/daily-color/dist/daily-color.js"></script>
-    <script>
+    <script type="module">
+      import { getDailyColor } from "https://www.aimeerivers.com/daily-color/dist/daily-color.js";
+
       const color = getDailyColor();
       const colorDiv = document.getElementById("color");
       document.body.style.backgroundColor = color;
