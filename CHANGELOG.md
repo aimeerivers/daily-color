@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/aimeerivers/daily-color/compare/v1.1.0...v1.2.0) (2024-11-09)
+
+
+### Features
+
+* Add an HTML page to show the current color of the day ([#8](https://github.com/aimeerivers/daily-color/issues/8)) ([e702363](https://github.com/aimeerivers/daily-color/commit/e702363cbb73e358742c2cb59874b9a2b55baa52))
+
 ## [1.1.0](https://github.com/aimeerivers/daily-color/compare/v1.0.1...v1.1.0) (2024-11-09)
 
 
