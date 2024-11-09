@@ -1,5 +1,4 @@
-export function getDailyColor() {
-  const date = new Date();
+export function getDailyColor(date = new Date()) {
   const hash = getSimpleHash(date);
 
   const r = (hash >> 16) & 0xff; // Red

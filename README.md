@@ -18,6 +18,7 @@ In a JavaScript/TypeScript project, using NPM:
 import { getDailyColor } from "daily-color";
 
 console.log("Today's color is:", getDailyColor());
+console.log("Another day's color is:", getDailyColor(new Date("2024-11-09")));
 ```
 
 Directly loading the bundled JavaScript, for static projects not using NPM:
@@ -27,6 +28,7 @@ Directly loading the bundled JavaScript, for static projects not using NPM:
   import { getDailyColor } from "https://www.aimeerivers.com/daily-color/dist/daily-color.js";
 
   console.log("Today's color is:", getDailyColor());
+  console.log("Another day's color is:", getDailyColor(new Date("2024-11-09")));
 </script>
 ```
 
