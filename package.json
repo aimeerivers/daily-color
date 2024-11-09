@@ -28,6 +28,6 @@
     "test": "node test/index.js"
   },
   "devDependencies": {
-    "eslint-config-plus-prettier": "1.5.18"
+    "eslint-config-plus-prettier": "1.6.0"
   }
 }
