@@ -15,7 +15,7 @@ In a JavaScript/TypeScript project:
 ```javascript
 const getDailyColor = require("daily-color");
 
-console.log("Today's color is: ", getDailyColor());
+console.log("Today's color is:", getDailyColor());
 ```
 
 Using the CLI:
