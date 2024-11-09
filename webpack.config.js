@@ -1,4 +1,5 @@
 const path = require("path");
+const webpack = require("webpack");
 
 module.exports = {
   entry: "./index.js",
@@ -12,6 +13,13 @@ module.exports = {
   resolve: {
     fallback: {
       crypto: require.resolve("crypto-browserify"),
+      vm: require.resolve("vm-browserify"),
+      buffer: require.resolve("buffer/"),
     },
   },
+  plugins: [
+    new webpack.ProvidePlugin({
+      Buffer: ["buffer", "Buffer"],
+    }),
+  ],
 };
