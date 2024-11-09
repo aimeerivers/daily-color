@@ -21,10 +21,10 @@ console.log("Today's color is:", getDailyColor());
 Directly loading the bundled JavaScript, for static projects not using NPM:
 
 ```html
-    <script src="https://www.aimeerivers.com/daily-color/dist/daily-color.js"></script>
-    <script>
-      console.log("Today's color is:", getDailyColor());
-    </script>
+<script src="https://www.aimeerivers.com/daily-color/dist/daily-color.js"></script>
+<script>
+  console.log("Today's color is:", getDailyColor());
+</script>
 ```
 
 Using the CLI:
