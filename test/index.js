@@ -1,3 +1,3 @@
-const getDailyColor = require('../index');
+const getDailyColor = require("../index");
 
 console.log("Today's color is:", getDailyColor());
