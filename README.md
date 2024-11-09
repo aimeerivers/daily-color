@@ -10,12 +10,21 @@ npm install daily-color
 
 ## Use
 
-In a JavaScript/TypeScript project:
+In a JavaScript/TypeScript project, using NPM:
 
 ```javascript
 const getDailyColor = require("daily-color");
 
 console.log("Today's color is:", getDailyColor());
+```
+
+Directly loading the bundled JavaScript, for static projects not using NPM:
+
+```html
+    <script src="https://www.aimeerivers.com/daily-color/dist/daily-color.js"></script>
+    <script>
+      console.log("Today's color is:", getDailyColor());
+    </script>
 ```
 
 Using the CLI:
