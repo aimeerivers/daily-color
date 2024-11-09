@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/aimeerivers/daily-color/compare/v1.3.0...v1.3.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* Make the text stand out slightly better on the demo page ([#13](https://github.com/aimeerivers/daily-color/issues/13)) ([f1a61bc](https://github.com/aimeerivers/daily-color/commit/f1a61bcadb0cab38d89a152b2886226e7c8e53cd))
+
 ## [1.3.0](https://github.com/aimeerivers/daily-color/compare/v1.2.0...v1.3.0) (2024-11-09)
 
 
