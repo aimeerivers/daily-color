@@ -9,8 +9,12 @@ export default {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "daily-color.js",
-    library: "getDailyColor",
-    libraryTarget: "umd",
+    library: {
+      type: "module",
+    },
+  },
+  experiments: {
+    outputModule: true,
   },
   mode: "production",
 };
