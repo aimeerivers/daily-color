@@ -38,6 +38,12 @@ Run tests:
 npm run test
 ```
 
+Compile the dist code, for projects without NPM:
+
+```bash
+npm run webpack
+```
+
 The project uses ESLint and Prettier to ensure consistent coding standards.
 
 ```bash
