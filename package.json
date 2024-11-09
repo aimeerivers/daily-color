@@ -29,5 +29,6 @@
   },
   "devDependencies": {
     "eslint-config-plus-prettier": "1.6.0"
-  }
+  },
+  "prettier": "eslint-config-plus-prettier/.prettierrc.json"
 }
