@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/aimeerivers/daily-color/compare/v1.3.1...v2.0.0) (2024-11-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Importing with `require` will no longer work. Instead use `import { getDailyColor } from "daily-color";`
+
+### Features
+
+* Convert to ES module ([#15](https://github.com/aimeerivers/daily-color/issues/15)) ([0444973](https://github.com/aimeerivers/daily-color/commit/04449739647216ddda101b5fdd4b3c7be2e0a662))
+
 ## [1.3.1](https://github.com/aimeerivers/daily-color/compare/v1.3.0...v1.3.1) (2024-11-09)
 
 
