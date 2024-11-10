@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/aimeerivers/daily-color/compare/v2.1.0...v2.1.1) (2024-11-10)
+
+
+### Dependencies
+
+* Update eslint-config-plus-prettier ([#24](https://github.com/aimeerivers/daily-color/issues/24)) ([c8f1b93](https://github.com/aimeerivers/daily-color/commit/c8f1b93e4c147f98eca314166e390bcb221b195d))
+
 ## [2.1.0](https://github.com/aimeerivers/daily-color/compare/v2.0.1...v2.1.0) (2024-11-09)
 
 
