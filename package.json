@@ -31,14 +31,14 @@
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "eslint . --ext .ts,.js --fix",
-    "lint:check": "eslint . --ext .ts,.js",
+    "lint": "eslint --fix",
+    "lint:check": "eslint",
     "package:lint": "npx npm-package-json-lint .",
     "test": "node test/index.js",
     "webpack": "npx webpack"
   },
   "devDependencies": {
-    "eslint-config-plus-prettier": "1.7.1",
+    "eslint-config-plus-prettier": "3.0.0",
     "webpack": "5.96.1",
     "webpack-cli": "5.1.4"
   },
