@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/aimeerivers/daily-color/compare/v2.1.5...v2.2.0) (2024-12-25)
+
+
+### Features
+
+* Add a month of color ([#34](https://github.com/aimeerivers/daily-color/issues/34)) ([d2b7b4a](https://github.com/aimeerivers/daily-color/commit/d2b7b4a6b823c7b1ff8f1fe0ffa36557d79204f5))
+
 ## [2.1.5](https://github.com/aimeerivers/daily-color/compare/v2.1.4...v2.1.5) (2024-12-12)
 
 
