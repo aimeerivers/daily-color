@@ -42,7 +42,7 @@ Just want to see today's color?
 
 There is a demo on [www.aimeerivers.com/daily-color](https://www.aimeerivers.com/daily-color/)
 
-And if you want to see the coming colors for the next month you can see them on [www.aimeerivers.com/daily-color/month.html](https://www.aimeerivers.com/daily-color/month.html)
+And if you want to see the coming colors for the next month you can see them on [www.aimeerivers.com/daily-color/month](https://www.aimeerivers.com/daily-color/month)
 
 ## Development
 
