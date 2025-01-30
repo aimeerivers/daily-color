@@ -33,7 +33,18 @@
     <script type="module">
       import { getDailyColor } from "https://www.aimeerivers.com/daily-color/dist/daily-color.js";
 
-      const color = getDailyColor();
+      function getDateFromUrl() {
+        const params = new URLSearchParams(window.location.search);
+        const dateParam = params.get("date");
+        if (!dateParam) return new Date();
+
+        const date = new Date(dateParam);
+        if (isNaN(date)) return new Date();
+
+        return date;
+      }
+
+      const color = getDailyColor(getDateFromUrl());
       const colorDiv = document.getElementById("color");
       document.body.style.backgroundColor = color;
       colorDiv.innerText = color;
