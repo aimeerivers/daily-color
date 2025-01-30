@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/aimeerivers/daily-color/compare/v2.2.1...v2.3.0) (2025-01-30)
+
+
+### Features
+
+* Enable seeing a different date in the demo site ([#38](https://github.com/aimeerivers/daily-color/issues/38)) ([a1a0744](https://github.com/aimeerivers/daily-color/commit/a1a0744a66f0fe94c8f23867b8a712a8d9b33f22))
+
 ## [2.2.1](https://github.com/aimeerivers/daily-color/compare/v2.2.0...v2.2.1) (2025-01-14)
 
 
