@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.4](https://github.com/aimeerivers/daily-color/compare/v2.3.3...v2.3.4) (2025-05-12)
+
+
+### Dependencies
+
+* update dependencies ([#46](https://github.com/aimeerivers/daily-color/issues/46)) ([a42b235](https://github.com/aimeerivers/daily-color/commit/a42b23578aa3ea312a40068133dc990b240eeb69))
+
 ## [2.3.3](https://github.com/aimeerivers/daily-color/compare/v2.3.2...v2.3.3) (2025-04-13)
 
 
