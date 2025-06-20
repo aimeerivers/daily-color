@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.6](https://github.com/aimeerivers/daily-color/compare/v2.3.5...v2.3.6) (2025-06-20)
+
+
+### Chores
+
+* Update eslint-config-plus-prettier to 4.1.13 ([#51](https://github.com/aimeerivers/daily-color/issues/51)) ([1936e74](https://github.com/aimeerivers/daily-color/commit/1936e742b17bfc469ef68cf04bd39f82e98bace5))
+
 ## [2.3.5](https://github.com/aimeerivers/daily-color/compare/v2.3.4...v2.3.5) (2025-06-07)
 
 
