@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "eslint-config-plus-prettier": "4.1.15",
-    "webpack": "5.100.2",
+    "webpack": "5.101.3",
     "webpack-cli": "6.0.1"
   },
   "prettier": "eslint-config-plus-prettier/prettier"
