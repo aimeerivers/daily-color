@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.8](https://github.com/aimeerivers/daily-color/compare/v2.3.7...v2.3.8) (2025-08-25)
+
+
+### Chores
+
+* Update webpack to 5.101.3 ([#55](https://github.com/aimeerivers/daily-color/issues/55)) ([41bc2e8](https://github.com/aimeerivers/daily-color/commit/41bc2e8f8af28e57a43edf7e3dc4db347964bb34))
+
 ## [2.3.7](https://github.com/aimeerivers/daily-color/compare/v2.3.6...v2.3.7) (2025-07-20)
 
 
