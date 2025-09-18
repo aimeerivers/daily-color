@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.9](https://github.com/aimeerivers/daily-color/compare/v2.3.8...v2.3.9) (2025-09-18)
+
+
+### Continuous Integration
+
+* Update Release Please to v4 ([#57](https://github.com/aimeerivers/daily-color/issues/57)) ([983870a](https://github.com/aimeerivers/daily-color/commit/983870a6a07a3afa8b7aef9d0620ff9381131dda))
+
 ## [2.3.8](https://github.com/aimeerivers/daily-color/compare/v2.3.7...v2.3.8) (2025-08-25)
 
 
