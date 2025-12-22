@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.14](https://github.com/druewilding/daily-color/compare/v2.3.13...v2.3.14) (2025-12-20)
+
+
+### Chores
+
+* Update webpack to 5.104.1 ([#67](https://github.com/druewilding/daily-color/issues/67)) ([82babb2](https://github.com/druewilding/daily-color/commit/82babb2db65d255f2bf22b69af87373dbd4abafa))
+
 ## [2.3.13](https://github.com/druewilding/daily-color/compare/v2.3.12...v2.3.13) (2025-11-22)
 
 
